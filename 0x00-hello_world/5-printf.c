@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * Main - the program starts here
- * retun 0; - the program terminates here
- * printf - the program outputs whatever is in here
+ * Main - Entry point
+ * return: 0
  */
 
 int main(void)
