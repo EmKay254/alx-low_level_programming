@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main-main block
  * retun: 0
  * Description: A C program that prints with printf function
  */
