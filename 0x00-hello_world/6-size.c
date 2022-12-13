@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
- * main- main begins the block
- * return - ends the block
+ * main - main block
+ * Return: 0
  */
 int main(void)
 {
