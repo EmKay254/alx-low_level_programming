@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-	int a = 1;
+	int a = 48;
 
-	while (a < 11)
+	while (a < 58)
 	{
 		putchar(a);
 		a++;
