@@ -47,3 +47,4 @@ if the last digit of n is less than 6 and not 0: the string and is less than 6 a
 
 followed by a new line
 Write a program that prints the alphabet in lowercase, followed by a new line.
+Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
