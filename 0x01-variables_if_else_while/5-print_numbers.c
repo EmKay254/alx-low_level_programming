@@ -3,8 +3,7 @@
 /**
  * main-main entry point
  * Return: success
- * 
- * Description: This program prints all single digit numbers of base 10 starting from 0
+ * This program prints all single digit numbers of base 10 starting from 0
  */
 int main(void)
 {
