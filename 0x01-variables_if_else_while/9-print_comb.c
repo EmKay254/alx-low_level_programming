@@ -10,9 +10,8 @@ int main(void)
 
 	for (a = 0; a <= 9; a++)
 	{
-		putchar(a, );
+		putchar("%d, ", a);
 	}
 	putchar('\n');
 	return (0);
 }
-Write a program that prints all possible combinations of single-digit numbers.
