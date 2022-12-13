@@ -5,7 +5,7 @@
  * Return: 0
  * This program prints the alphabet in lowercase except the letters q and e
  */
-in main(void)
+int main(void)
 {
 	char a;
 
