@@ -9,7 +9,7 @@
  */
 int _islower(int c)
 {
-	int lower = 'a';
+int lower = 'a';
 
 	for (lower = 'a'; lower <= 'z'; lower++)
 	{
@@ -18,5 +18,5 @@ int _islower(int c)
 			return (1);
 		}
 	}
-	return (0);
+		return (0);
 }
