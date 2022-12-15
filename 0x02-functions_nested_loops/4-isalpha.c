@@ -4,6 +4,7 @@
  * _isalpha - test the _isalpha function
  *
  * @c: number to pass to _isalpha function
+ * Return: Always 0.
  */
 int _isalpha(int c)
 {
