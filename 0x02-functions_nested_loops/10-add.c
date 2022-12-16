@@ -7,7 +7,7 @@
  * @b: second number
  * Return: total sum
  */
-int add(int a, int b);
+int add(int a, int b)
 {
 	return (a + b);
 }
