@@ -14,7 +14,7 @@ void times_table(void)
 		for (b = 1; b <= 9; b++)
 		{
 			xy = a * b;
-			_putchar(44)
+			_putchar(44);
 			_putchar(32);
 			if (xy <= 9)
 			{
@@ -22,11 +22,4 @@ void times_table(void)
 				_putchar(xy + 48);
 			}
 			else
-			{
-				_putchar((xy / 10) + 48);
-				_putchar((xy % 10) + 48);
-			}
-		}
-		_putchar('\n');
-	}
-}
+				
