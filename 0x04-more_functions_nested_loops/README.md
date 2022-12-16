@@ -48,3 +48,4 @@ The “Fizz-Buzz test” is an interview question designed to help filter out th
 
 
 Write a program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
+Copy this main file. Comment out (don’t delete it!) the part of the code that is causing the output to go into an infinite loop.
