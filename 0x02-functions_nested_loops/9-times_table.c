@@ -22,4 +22,11 @@ void times_table(void)
 				_putchar(xy + 48);
 			}
 			else
-				
+			{
+				_putchar((xy / 10) + 48);
+				_putchar((xy % 10) + 48);
+			}
+		}
+		_putchar('\n');
+	}
+}
