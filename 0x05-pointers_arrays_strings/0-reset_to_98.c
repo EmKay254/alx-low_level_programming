@@ -4,7 +4,7 @@
 /**
  * reset_to_98 - resets the number to 98
  *
- * @*n: integer to reset
+ * @n: integer to reset
  *
  * Return: Always 0
  */
