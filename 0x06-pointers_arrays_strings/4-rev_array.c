@@ -2,7 +2,7 @@
 
 /**
  * reverse_array - reverses the content of an array of integers
- * @a: 
+ * @a: integer
  * @n: array
  * Return: Always success
  */
@@ -21,4 +21,4 @@ void reverse_array(int *a, int n)
 		a[n] = b;
 		i++;
 	}
-}	
+}
