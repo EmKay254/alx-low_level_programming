@@ -6,7 +6,7 @@
  * Return: always success
  */
 
-char *string_toupper(char *n)
+char *string_toupper(char *s)
 {
 	int count = 0;
 
