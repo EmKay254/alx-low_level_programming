@@ -2,7 +2,7 @@
 
 /**
  * string_toupper - changes all lowecase letters to uppercase
- * @ string
+ * @s: string
  * Return: always success
  */
 
